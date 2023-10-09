@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect } from "react";
+import React from "react";
 import SectionHeading from "./section-heading";
 import Project from "@/components/project";
 import { projectsData } from "@/lib/data";
